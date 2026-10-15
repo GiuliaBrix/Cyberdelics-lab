@@ -1,0 +1,4 @@
+data/
+*.keras
+*.h5
+__pycache__/
